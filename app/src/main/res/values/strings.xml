@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SSH rexec</string>
+    <string name="ip_port">IP/PORT:</string>
+    <string name="ip_address">ip address</string>
+    <string name="port">port</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="connect">exec</string>
+    <string name="command">Command:</string>
+    <string name="et_command">command</string>
+    <string name="et_username">username</string>
+    <string name="et_password">password</string>
+</resources>
